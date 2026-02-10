@@ -16,11 +16,9 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Video
 
-| Home Page | Product Page | Cart & Checkout |
-|:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/300x160?text=Home+Page) | ![Product](https://via.placeholder.com/300x160?text=Product+View) | ![Checkout](https://via.placeholder.com/300x160?text=Checkout) |
+[![Watch the Demo](https://img.youtube.com/vi/KmstELMBTHM/maxresdefault.jpg)](https://www.youtube.com/watch?v=KmstELMBTHM)
 
 ---
 
